@@ -1,4 +1,5 @@
 # **Determination of Vitamin C Concentration Using NIR Spectroscopy and Chemometric Modeling**
+**This repository contains two source code files: one for Jupyter Notebook and the other for a Python script. You can visualize the output in real-time within the Jupyter Notebook environment or run it using the Python script. This repository also contains the dataset which I have used to determine Vitamin C Concentration.**
 
 ## **Project Overview**
 This project focuses on determining Vitamin C concentration using Near-Infrared (NIR) spectroscopy and chemometric modeling techniques. The goal is to analyze NIR spectral data and quantify Vitamin C concentration by applying chemometric methods. The script processes the spectral data to calculate and visualize the mean spectrum, and highlights key wavenumbers selected based on feature selection techniques.
@@ -9,6 +10,7 @@ This project focuses on determining Vitamin C concentration using Near-Infrared 
 - **Mean Spectrum Calculation**: Computes the mean spectrum from the spectral data.
 - **Wavenumber Highlighting**: Visualizes and marks the selected wavenumbers on the mean spectrum plot.
 - **Plot Generation**: Generates visualizations of the mean spectrum and selected wavenumbers for analysis.
+
 
 ## **Dependencies**
 
